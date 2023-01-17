@@ -210,6 +210,7 @@ body {
 }
 
 .button {
+  cursor: pointer;
   white-space: nowrap;
   display: inline-block;
   font-weight: 500;
